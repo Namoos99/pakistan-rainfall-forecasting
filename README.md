@@ -95,4 +95,4 @@ Make sure the three CSV files are in the same directory as the notebook (or in a
 
 ## Author
 
-**Namoos Haider** - COMP 4581, Algorithms for Data Science
+**Namoos Haider** 
