@@ -75,17 +75,6 @@ jupyter notebook Comp4581_FinalProject_NH.ipynb
 
 Make sure the three CSV files are in the same directory as the notebook (or in a `data/` folder and update the paths).
 
-## Figures
-
-### 116 Years of Pakistan Rainfall
-![Data Exploration](figures/fig2_data_exploration.png)
-
-### SARIMA Forecast with 2022 Flood Context
-![Forecast](figures/fig6_forecast.png)
-
-### ENSO vs Pakistan Monsoon Rainfall
-![ENSO](figures/fig9_enso.png)
-
 ## Tools & Libraries
 
 - Python 3.10+
